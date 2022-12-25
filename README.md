@@ -1,5 +1,5 @@
 # todo-backend
-This is an example implementation of  todo-backend API
+This is an example implementation of todo-backend API
 
 
 * features:
@@ -9,13 +9,13 @@ This is an example implementation of  todo-backend API
 
 ## Demo
 
-This application is deployed on Vercel. Please check it out: [here](https://k-food-api-80202.vercel.com/).
+This application is deployed on Vercel. Please check it out: [here](https://todo-backend-tlv5.vercel.app/api/todo/).
 
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/rahmanreza646/K-foodAPI.git
-$ cd k-food-api
+$ git clone https://github.com/rahmanreza646/todo-backend.git
+$ cd todo-backend
 $ npm install
 ```
 
@@ -33,7 +33,6 @@ $ npm install
 __________________________________________________________________________________________________________
 | METHOD:                   URL:                                             // DESCRIPTION              |
 |________________________________________________________________________________________________________|
-| GET:      https://mukul-todo-app-new.herokuapp.com/                        // defaults welcome routes  |
 | GET:      https://todo-backend-tlv5.vercel.app/api/todo/getAll/            // get all todos            |
 | GET:      https://todo-backend-tlv5.vercel.app/api/todo/complete/:id       // get a single todo        |
 | POST:     https://todo-backend-tlv5.vercel.app/api/todo/new                // create a new todo        |          
